@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/578436547321499788/2278e40237af4dfab5bdb9f937789ae2/artifacts
+end_time: 1760793473661
+entry_point_name: ''
+experiment_id: '578436547321499788'
+lifecycle_stage: active
+run_id: 2278e40237af4dfab5bdb9f937789ae2
+run_name: grandiose-fawn-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760793469800
+status: 3
+tags: []
+user_id: adeel

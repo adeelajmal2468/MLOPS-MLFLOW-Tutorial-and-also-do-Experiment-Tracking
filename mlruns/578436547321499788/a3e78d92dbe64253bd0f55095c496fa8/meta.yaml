@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/578436547321499788/a3e78d92dbe64253bd0f55095c496fa8/artifacts
+end_time: 1760699035879
+entry_point_name: ''
+experiment_id: '578436547321499788'
+lifecycle_stage: active
+run_id: a3e78d92dbe64253bd0f55095c496fa8
+run_name: smiling-hare-516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760699032584
+status: 3
+tags: []
+user_id: adeel

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f755637e6e1a43d0b6ca2d9645449ebd/artifacts
+end_time: 1760697586297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f755637e6e1a43d0b6ca2d9645449ebd
+run_name: exultant-donkey-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760697585942
+status: 3
+tags: []
+user_id: adeel

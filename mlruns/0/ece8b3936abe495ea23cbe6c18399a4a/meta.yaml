@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ece8b3936abe495ea23cbe6c18399a4a/artifacts
+end_time: 1760696220502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ece8b3936abe495ea23cbe6c18399a4a
+run_name: burly-ape-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760696220491
+status: 3
+tags: []
+user_id: adeel

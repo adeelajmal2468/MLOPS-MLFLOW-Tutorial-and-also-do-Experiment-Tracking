@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/578436547321499788/a1011413556f4f1cb55a0d6d932cabd2/artifacts
+end_time: 1760697851712
+entry_point_name: ''
+experiment_id: '578436547321499788'
+lifecycle_stage: active
+run_id: a1011413556f4f1cb55a0d6d932cabd2
+run_name: nimble-gnat-217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760697851396
+status: 3
+tags: []
+user_id: adeel
